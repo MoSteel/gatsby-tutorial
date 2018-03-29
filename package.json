@@ -6,7 +6,8 @@
     "heroku-postbuild": "gatsby build",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "start": "serve public/"
   },
   "dependencies": {
     "gatsby": "^1.9.241",
